@@ -1,0 +1,4 @@
+.DS_Store
+
+# Maven build output
+source_code/target/
